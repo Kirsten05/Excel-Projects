@@ -1,11 +1,10 @@
 # Excel-Projects
 
 
-Excel Data Analysis Projects for Business Insight
 This repository features a collection of Excel-based projects that demonstrate how data cleaning, analysis, and dashboarding can drive smarter decisions across industries. Each project reflects my ability to transform raw datasets into actionable insights that help organizations improve performance, accountability, and strategic planning.
 
 
-💼 What I Help Organizations Achieve:
+What I Help Organizations Achieve:
 - Operational Clarity: By cleaning and organizing complex data, I help teams uncover inefficiencies and streamline workflows.
 - Informed Decision-Making: Through trend analysis and visual dashboards, I empower stakeholders to make data-backed choices.
 - Financial Integrity: My work supports internal audit and risk assessment efforts by highlighting anomalies and ensuring transparency.
